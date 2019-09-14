@@ -1,0 +1,27 @@
+
+            List<Accountant> customer = new List<Accountant>() {
+                         new Accountant(1,27,"Besir", AccType.Fiziki,new List<Transachistory>()
+            {
+              new Transachistory(1,10,100,"FORMULA 1")
+        }),
+                new Accountant(1,25,"Kamal", AccType.Fiziki,new List<Transachistory>()
+            {
+              new Transachistory(1,12,35,"Academy")
+        }),
+                new Accountant(1,25,"Nurlan", AccType.huquqi,new List<Transachistory>()
+            {
+              new Transachistory(1,12,35,"Academy")
+        })
+            };
+
+
+
+            var ACCTHuquqi = customer.Where(w => w.actype == AccType.huquqi).Count();
+
+            Console.WriteLine( $"Hüquqi şexslerin sayı {ACCTHuquqi} -dir");
+
+            Console.WriteLine();
+
+            var ACCTFiziki = customer.Where(w => w.actype == AccType.Fiziki).Count();
+
+            Console.WriteLine($"Fiziki şexslerin sayı {ACCTFiziki} -dir");
