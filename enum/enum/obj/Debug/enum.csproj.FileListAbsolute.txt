@@ -1,0 +1,13 @@
+C:\Users\Ulvi\source\repos\enum\enum\bin\Debug\@enum.exe.config
+C:\Users\Ulvi\source\repos\enum\enum\bin\Debug\@enum.exe
+C:\Users\Ulvi\source\repos\enum\enum\bin\Debug\@enum.pdb
+C:\Users\Ulvi\source\repos\enum\enum\obj\Debug\enum.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\enum\enum\obj\Debug\@enum.exe
+C:\Users\Ulvi\source\repos\enum\enum\obj\Debug\@enum.pdb
+C:\Users\acer\source\repos\enum\enum\bin\Debug\@enum.exe.config
+C:\Users\acer\source\repos\enum\enum\bin\Debug\@enum.exe
+C:\Users\acer\source\repos\enum\enum\bin\Debug\@enum.pdb
+C:\Users\acer\source\repos\enum\enum\obj\Debug\enum.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\enum\enum\obj\Debug\@enum.exe
+C:\Users\acer\source\repos\enum\enum\obj\Debug\@enum.pdb
