@@ -1,0 +1,7 @@
+C:\Users\Ulvi\source\repos\interfaceTask_14.09\interfaceTask_14.09\bin\Debug\interfaceTask_14.09.exe.config
+C:\Users\Ulvi\source\repos\interfaceTask_14.09\interfaceTask_14.09\bin\Debug\interfaceTask_14.09.exe
+C:\Users\Ulvi\source\repos\interfaceTask_14.09\interfaceTask_14.09\bin\Debug\interfaceTask_14.09.pdb
+C:\Users\Ulvi\source\repos\interfaceTask_14.09\interfaceTask_14.09\obj\Debug\interfaceTask_14.09.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\interfaceTask_14.09\interfaceTask_14.09\obj\Debug\interfaceTask_14.09.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\interfaceTask_14.09\interfaceTask_14.09\obj\Debug\interfaceTask_14.09.exe
+C:\Users\Ulvi\source\repos\interfaceTask_14.09\interfaceTask_14.09\obj\Debug\interfaceTask_14.09.pdb
